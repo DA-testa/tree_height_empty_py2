@@ -29,9 +29,9 @@ Memory Limit. 512MB.
 
 # To pass the tests
 
-implement input form keyboard and from files (capital I or capital F)
+implement input form keyboard and from files (capital i or capital F)
 
-let user input file name to use, don't allow file names with letter a
+let user input file name to use, don't allow file names with letter a (don't forget that the files are located in a folder)
 account for github input inprecision in both the file names and input
 
 
