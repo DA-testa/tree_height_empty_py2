@@ -37,7 +37,7 @@ account for github input inprecision in both the file names and input
 
 
 
-Sample 1.
+# Sample 1.
 Input:
 5
 4 -1 4 1 1
