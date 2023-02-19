@@ -12,10 +12,10 @@ def compute_height(n, parents):
 
 
 def main():
-    # implement repeating the program as many times as user wants
     # implement input form keyboard and from files
-    # read names of all test files in directory that don't contain the letter a
-    # let the user choose which file will be used, account for github input inprecision
+    
+    # let user input file name to use, don't allow file names with letter a
+    # account for github input inprecision
     
     n = int(input())
     parents = list(map(int, input().split()))
