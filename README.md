@@ -27,11 +27,12 @@ Output Format. Output the height of the tree.
 Memory Limit. 512MB.
 
 
+# To pass the tests
 
-# implement input form keyboard and from files
+implement input form keyboard and from files (capital I or capital F)
 
-# let user input file name to use, don't allow file names with letter a
-# account for github input inprecision
+let user input file name to use, don't allow file names with letter a
+account for github input inprecision in both the file names and input
 
 
 
