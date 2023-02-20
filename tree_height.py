@@ -17,9 +17,9 @@ def main():
     # let user input file name to use, don't allow file names with letter a
     # account for github input inprecision
     
-    n = int(input())
-    parents = list(map(int, input().split()))
-    print(compute_height(n, parents))
+    # input number of elements
+    # input values in one variable, separate with space, split these values in an array
+    # call the function and output it's result
 
 
 # In Python, the default limit on recursion depth is rather low,
